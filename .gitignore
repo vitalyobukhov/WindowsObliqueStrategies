@@ -1,0 +1,6 @@
+.gitignore
+*.suo
+*.userprefs
+*.pidb
+ObliqueStrategies/bin/
+ObliqueStrategies/obj/

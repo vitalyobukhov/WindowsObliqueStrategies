@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="autoshow" value="0"/>
+    <add key="showonstart" value="true"/>
+  </appSettings>
+</configuration>
